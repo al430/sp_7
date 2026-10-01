@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\clone\\sp_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE06277-DB7D-42BE-8D8A-A734AE198996}|sp_7.vcxproj|C:\\clone\\sp_7\\sp_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEE06277-DB7D-42BE-8D8A-A734AE198996}|sp_7.vcxproj|solutionrelative:sp_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE06277-DB7D-42BE-8D8A-A734AE198996}|sp_7.vcxproj|C:\\clone\\sp_7\\orders.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEE06277-DB7D-42BE-8D8A-A734AE198996}|sp_7.vcxproj|solutionrelative:orders.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "orders.txt",
+              "DocumentMoniker": "C:\\clone\\sp_7\\orders.txt",
+              "RelativeDocumentMoniker": "orders.txt",
+              "ToolTip": "C:\\clone\\sp_7\\orders.txt",
+              "RelativeToolTip": "orders.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-01T06:54:54.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sp_7.cpp",
+              "DocumentMoniker": "C:\\clone\\sp_7\\sp_7.cpp",
+              "RelativeDocumentMoniker": "sp_7.cpp",
+              "ToolTip": "C:\\clone\\sp_7\\sp_7.cpp",
+              "RelativeToolTip": "sp_7.cpp",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAAPsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-01T06:42:35.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
